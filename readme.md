@@ -21,3 +21,4 @@ q Isporučiti programsko rješenje za testiranje isporučenog rješenja koje sad
 · Definicije integracijskih testova koji dokazuju da su slojevi međusobno povezani
 
 * Testovi se moraju moći pokrenuti više puta.# infs
+# infs
